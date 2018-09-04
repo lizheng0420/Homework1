@@ -1,0 +1,766 @@
+,State,year,Divorce rate,Marriage rate
+0,Alabama,2011,4.3%,8.4%
+1,Alaska,2011,4.8%,7.8%
+2,Arizona,2011,3.9%,5.7%
+3,Arkansas,2011,5.3%,10.4%
+4,California,2011,nan%,5.8%
+5,Colorado,2011,4.4%,7.0%
+6,Connecticut,2011,3.1%,5.5%
+7,Delaware,2011,3.6%,5.2%
+8,District of Columbia,2011,2.9%,8.7%
+9,Florida,2011,4.5%,7.4%
+10,Georgia,2011,nan%,6.6%
+11,Hawaii,2011,nan%,17.6%
+12,Idaho,2011,4.9%,8.6%
+13,Illinois,2011,2.6%,5.6%
+14,Indiana,2011,nan%,6.8%
+15,Iowa,2011,2.4%,6.7%
+16,Kansas,2011,3.9%,6.3%
+17,Kentucky,2011,4.4%,7.5%
+18,Louisiana,2011,nan%,6.4%
+19,Maine,2011,4.2%,7.2%
+20,Maryland,2011,2.9%,5.8%
+21,Massachusetts,2011,2.7%,5.5%
+22,Michigan,2011,3.4%,5.7%
+23,Minnesota,2011,nan%,5.6%
+24,Mississippi,2011,4.0%,4.9%
+25,Missouri,2011,3.9%,6.6%
+26,Montana,2011,4.0%,7.8%
+27,Nebraska,2011,3.5%,6.6%
+28,Nevada,2011,5.6%,36.9%
+29,New Hampshire,2011,3.8%,7.1%
+30,New Jersey,2011,2.9%,4.8%
+31,New Mexico,2011,3.3%,8.0%
+32,New York,2011,2.9%,6.9%
+33,North Carolina,2011,3.7%,6.7%
+34,North Dakota,2011,2.7%,6.7%
+35,Ohio,2011,3.4%,5.9%
+36,Oklahoma,2011,5.2%,6.9%
+37,Oregon,2011,3.8%,6.6%
+38,Pennsylvania,2011,2.8%,5.3%
+39,Rhode Island,2011,3.2%,6.0%
+40,South Carolina,2011,3.2%,7.2%
+41,South Dakota,2011,3.3%,7.5%
+42,Tennessee,2011,4.3%,9.0%
+43,Texas,2011,3.2%,7.1%
+44,Utah,2011,3.7%,8.6%
+45,Vermont,2011,3.6%,8.3%
+46,Virginia,2011,3.8%,6.8%
+47,Washington,2011,4.1%,6.1%
+48,West Virginia,2011,5.2%,7.2%
+49,Wisconsin,2011,2.9%,5.3%
+50,Wyoming,2011,4.8%,7.8%
+51,Alabama,2010,4.4%,8.2%
+52,Alaska,2010,4.7%,8.0%
+53,Arizona,2010,3.5%,5.9%
+54,Arkansas,2010,5.7%,10.8%
+55,California,2010,nan%,5.8%
+56,Colorado,2010,4.3%,6.9%
+57,Connecticut,2010,2.9%,5.6%
+58,Delaware,2010,3.5%,5.2%
+59,District of Columbia,2010,2.8%,7.6%
+60,Florida,2010,4.4%,7.3%
+61,Georgia,2010,nan%,7.3%
+62,Hawaii,2010,nan%,17.6%
+63,Idaho,2010,5.2%,8.8%
+64,Illinois,2010,2.6%,5.7%
+65,Indiana,2010,nan%,6.3%
+66,Iowa,2010,2.4%,6.9%
+67,Kansas,2010,3.7%,6.4%
+68,Kentucky,2010,4.5%,7.4%
+69,Louisiana,2010,nan%,6.9%
+70,Maine,2010,4.2%,7.1%
+71,Maryland,2010,2.8%,5.7%
+72,Massachusetts,2010,2.5%,5.6%
+73,Michigan,2010,3.5%,5.5%
+74,Minnesota,2010,nan%,5.3%
+75,Mississippi,2010,4.3%,4.9%
+76,Missouri,2010,3.9%,6.5%
+77,Montana,2010,3.9%,7.4%
+78,Nebraska,2010,3.6%,6.6%
+79,Nevada,2010,5.9%,38.3%
+80,New Hampshire,2010,3.8%,7.3%
+81,New Jersey,2010,3.0%,5.1%
+82,New Mexico,2010,4.0%,7.7%
+83,New York,2010,2.9%,6.5%
+84,North Carolina,2010,3.8%,6.6%
+85,North Dakota,2010,3.1%,6.5%
+86,Ohio,2010,3.4%,5.8%
+87,Oklahoma,2010,5.2%,7.2%
+88,Oregon,2010,4.0%,6.5%
+89,Pennsylvania,2010,2.7%,5.3%
+90,Rhode Island,2010,3.2%,5.8%
+91,South Carolina,2010,3.1%,7.4%
+92,South Dakota,2010,3.4%,7.3%
+93,Tennessee,2010,4.2%,8.8%
+94,Texas,2010,3.3%,7.1%
+95,Utah,2010,3.7%,8.5%
+96,Vermont,2010,3.8%,9.3%
+97,Virginia,2010,3.8%,6.8%
+98,Washington,2010,4.2%,6.0%
+99,West Virginia,2010,5.1%,6.7%
+100,Wisconsin,2010,3.0%,5.3%
+101,Wyoming,2010,5.1%,7.6%
+102,Alabama,2009,4.4%,8.3%
+103,Alaska,2009,4.4%,7.8%
+104,Arizona,2009,3.6%,5.6%
+105,Arkansas,2009,5.7%,10.7%
+106,California,2009,nan%,5.8%
+107,Colorado,2009,4.3%,6.9%
+108,Connecticut,2009,3.0%,5.9%
+109,Delaware,2009,3.6%,5.4%
+110,District of Columbia,2009,2.7%,4.7%
+111,Florida,2009,4.2%,7.5%
+112,Georgia,2009,nan%,6.6%
+113,Hawaii,2009,nan%,17.2%
+114,Idaho,2009,5.0%,8.9%
+115,Illinois,2009,2.5%,5.7%
+116,Indiana,2009,nan%,7.9%
+117,Iowa,2009,2.4%,7.0%
+118,Kansas,2009,3.6%,6.4%
+119,Kentucky,2009,4.6%,7.6%
+120,Louisiana,2009,nan%,7.1%
+121,Maine,2009,4.1%,7.1%
+122,Maryland,2009,2.8%,5.8%
+123,Massachusetts,2009,2.2%,5.6%
+124,Michigan,2009,3.3%,5.4%
+125,Minnesota,2009,nan%,5.3%
+126,Mississippi,2009,4.1%,4.8%
+127,Missouri,2009,3.8%,6.5%
+128,Montana,2009,4.0%,7.3%
+129,Nebraska,2009,3.4%,6.6%
+130,Nevada,2009,6.6%,40.3%
+131,New Hampshire,2009,3.7%,6.5%
+132,New Jersey,2009,2.7%,5.0%
+133,New Mexico,2009,3.9%,5.0%
+134,New York,2009,2.6%,6.5%
+135,North Carolina,2009,3.8%,6.6%
+136,North Dakota,2009,2.8%,6.4%
+137,Ohio,2009,3.3%,5.8%
+138,Oklahoma,2009,4.8%,6.9%
+139,Oregon,2009,3.9%,6.6%
+140,Pennsylvania,2009,2.7%,5.3%
+141,Rhode Island,2009,3.0%,5.9%
+142,South Carolina,2009,3.0%,7.3%
+143,South Dakota,2009,3.3%,7.3%
+144,Tennessee,2009,3.9%,8.4%
+145,Texas,2009,3.3%,7.1%
+146,Utah,2009,3.7%,8.4%
+147,Vermont,2009,3.5%,8.7%
+148,Virginia,2009,3.7%,6.9%
+149,Washington,2009,3.9%,6.0%
+150,West Virginia,2009,5.1%,6.7%
+151,Wisconsin,2009,2.9%,5.3%
+152,Wyoming,2009,5.1%,8.0%
+153,Alabama,2008,4.3%,8.6%
+154,Alaska,2008,4.4%,8.4%
+155,Arizona,2008,3.8%,6.0%
+156,Arkansas,2008,5.5%,10.6%
+157,California,2008,nan%,6.7%
+158,Colorado,2008,4.3%,7.4%
+159,Connecticut,2008,3.4%,5.4%
+160,Delaware,2008,3.5%,5.5%
+161,District of Columbia,2008,2.7%,4.1%
+162,Florida,2008,4.3%,8.0%
+163,Georgia,2008,nan%,6.0%
+164,Hawaii,2008,nan%,19.1%
+165,Idaho,2008,4.8%,9.5%
+166,Illinois,2008,2.5%,5.9%
+167,Indiana,2008,nan%,8.0%
+168,Iowa,2008,2.6%,6.5%
+169,Kansas,2008,3.5%,6.7%
+170,Kentucky,2008,4.6%,7.9%
+171,Louisiana,2008,nan%,6.8%
+172,Maine,2008,4.2%,7.4%
+173,Maryland,2008,2.8%,5.9%
+174,Massachusetts,2008,2.0%,5.7%
+175,Michigan,2008,3.4%,5.6%
+176,Minnesota,2008,nan%,5.4%
+177,Mississippi,2008,4.3%,5.1%
+178,Missouri,2008,3.7%,6.8%
+179,Montana,2008,4.1%,7.6%
+180,Nebraska,2008,3.3%,6.9%
+181,Nevada,2008,6.4%,42.3%
+182,New Hampshire,2008,3.9%,6.8%
+183,New Jersey,2008,3.0%,5.4%
+184,New Mexico,2008,4.1%,4.0%
+185,New York,2008,2.8%,6.6%
+186,North Carolina,2008,3.8%,6.9%
+187,North Dakota,2008,2.9%,6.5%
+188,Ohio,2008,3.3%,6.0%
+189,Oklahoma,2008,5.3%,7.1%
+190,Oregon,2008,3.9%,6.9%
+191,Pennsylvania,2008,2.7%,5.5%
+192,Rhode Island,2008,2.7%,6.1%
+193,South Carolina,2008,2.8%,7.3%
+194,South Dakota,2008,3.1%,7.7%
+195,Tennessee,2008,4.2%,9.4%
+196,Texas,2008,3.3%,7.3%
+197,Utah,2008,3.8%,9.0%
+198,Vermont,2008,3.6%,7.9%
+199,Virginia,2008,3.8%,7.2%
+200,Washington,2008,3.9%,6.3%
+201,West Virginia,2008,4.8%,7.1%
+202,Wisconsin,2008,3.0%,5.6%
+203,Wyoming,2008,4.9%,8.6%
+204,Alabama,2007,4.5%,8.9%
+205,Alaska,2007,4.3%,8.5%
+206,Arizona,2007,4.0%,6.4%
+207,Arkansas,2007,5.9%,12.0%
+208,California,2007,nan%,6.2%
+209,Colorado,2007,4.4%,7.1%
+210,Connecticut,2007,3.2%,5.5%
+211,Delaware,2007,3.7%,5.7%
+212,District of Columbia,2007,1.7%,4.2%
+213,Florida,2007,4.6%,8.5%
+214,Georgia,2007,nan%,6.8%
+215,Hawaii,2007,nan%,20.8%
+216,Idaho,2007,4.9%,10.0%
+217,Illinois,2007,2.6%,6.1%
+218,Indiana,2007,nan%,7.0%
+219,Iowa,2007,2.5%,6.6%
+220,Kansas,2007,3.4%,6.8%
+221,Kentucky,2007,4.6%,7.8%
+222,Louisiana,2007,nan%,7.5%
+223,Maine,2007,4.2%,7.4%
+224,Maryland,2007,2.9%,6.5%
+225,Massachusetts,2007,2.3%,5.9%
+226,Michigan,2007,3.4%,5.7%
+227,Minnesota,2007,nan%,5.8%
+228,Mississippi,2007,4.5%,5.4%
+229,Missouri,2007,3.8%,6.9%
+230,Montana,2007,4.0%,7.5%
+231,Nebraska,2007,3.4%,6.8%
+232,Nevada,2007,6.4%,48.6%
+233,New Hampshire,2007,3.8%,7.1%
+234,New Jersey,2007,3.0%,5.4%
+235,New Mexico,2007,4.2%,5.6%
+236,New York,2007,2.9%,6.8%
+237,North Carolina,2007,4.0%,7.0%
+238,North Dakota,2007,2.9%,6.6%
+239,Ohio,2007,3.4%,6.1%
+240,Oklahoma,2007,5.2%,7.3%
+241,Oregon,2007,3.9%,7.2%
+242,Pennsylvania,2007,2.8%,5.7%
+243,Rhode Island,2007,2.8%,6.4%
+244,South Carolina,2007,3.0%,7.9%
+245,South Dakota,2007,3.1%,7.8%
+246,Tennessee,2007,4.3%,10.1%
+247,Texas,2007,3.3%,7.4%
+248,Utah,2007,3.7%,9.6%
+249,Vermont,2007,3.6%,8.5%
+250,Virginia,2007,3.8%,7.5%
+251,Washington,2007,4.0%,6.4%
+252,West Virginia,2007,5.1%,7.3%
+253,Wisconsin,2007,2.9%,5.7%
+254,Wyoming,2007,4.9%,9.0%
+255,Alabama,2006,4.9%,9.2%
+256,Alaska,2006,4.2%,8.2%
+257,Arizona,2006,4.0%,6.5%
+258,Arkansas,2006,5.8%,12.4%
+259,California,2006,nan%,6.3%
+260,Colorado,2006,4.5%,7.2%
+261,Connecticut,2006,3.1%,5.5%
+262,Delaware,2006,3.8%,5.9%
+263,District of Columbia,2006,2.1%,4.0%
+264,Florida,2006,4.7%,8.6%
+265,Georgia,2006,nan%,7.3%
+266,Hawaii,2006,nan%,21.9%
+267,Idaho,2006,5.0%,10.1%
+268,Illinois,2006,2.5%,6.2%
+269,Indiana,2006,nan%,7.0%
+270,Iowa,2006,2.7%,6.7%
+271,Kansas,2006,3.1%,6.8%
+272,Kentucky,2006,5.0%,8.4%
+273,Louisiana,2006,nan%,nan%
+274,Maine,2006,4.2%,7.8%
+275,Maryland,2006,3.0%,6.6%
+276,Massachusetts,2006,2.3%,5.9%
+277,Michigan,2006,3.5%,5.9%
+278,Minnesota,2006,nan%,6.0%
+279,Mississippi,2006,4.8%,5.7%
+280,Missouri,2006,3.8%,6.9%
+281,Montana,2006,4.4%,7.4%
+282,Nebraska,2006,3.4%,6.8%
+283,Nevada,2006,6.7%,52.1%
+284,New Hampshire,2006,4.1%,7.2%
+285,New Jersey,2006,3.0%,5.5%
+286,New Mexico,2006,4.3%,6.8%
+287,New York,2006,3.1%,6.9%
+288,North Carolina,2006,4.0%,7.3%
+289,North Dakota,2006,3.0%,6.7%
+290,Ohio,2006,3.5%,6.3%
+291,Oklahoma,2006,5.3%,7.3%
+292,Oregon,2006,4.0%,7.3%
+293,Pennsylvania,2006,2.8%,5.7%
+294,Rhode Island,2006,3.0%,6.6%
+295,South Carolina,2006,2.9%,7.8%
+296,South Dakota,2006,3.2%,8.0%
+297,Tennessee,2006,4.6%,10.6%
+298,Texas,2006,3.4%,7.6%
+299,Utah,2006,3.9%,9.2%
+300,Vermont,2006,3.8%,8.6%
+301,Virginia,2006,4.0%,7.8%
+302,Washington,2006,4.1%,6.5%
+303,West Virginia,2006,5.0%,7.3%
+304,Wisconsin,2006,3.0%,6.0%
+305,Wyoming,2006,5.1%,9.3%
+306,Alabama,2005,4.9%,9.2%
+307,Alaska,2005,4.3%,8.2%
+308,Arizona,2005,4.2%,6.6%
+309,Arkansas,2005,6.0%,12.9%
+310,California,2005,nan%,6.4%
+311,Colorado,2005,4.4%,7.6%
+312,Connecticut,2005,3.0%,5.8%
+313,Delaware,2005,3.8%,5.9%
+314,District of Columbia,2005,2.0%,4.1%
+315,Florida,2005,4.6%,8.9%
+316,Georgia,2005,nan%,7.0%
+317,Hawaii,2005,nan%,22.6%
+318,Idaho,2005,5.0%,10.5%
+319,Illinois,2005,2.6%,5.9%
+320,Indiana,2005,nan%,6.9%
+321,Iowa,2005,2.7%,6.9%
+322,Kansas,2005,3.1%,6.8%
+323,Kentucky,2005,4.6%,8.7%
+324,Louisiana,2005,nan%,8.0%
+325,Maine,2005,4.1%,8.2%
+326,Maryland,2005,3.1%,6.9%
+327,Massachusetts,2005,2.2%,6.2%
+328,Michigan,2005,3.4%,6.1%
+329,Minnesota,2005,nan%,6.0%
+330,Mississippi,2005,4.4%,5.8%
+331,Missouri,2005,3.6%,7.0%
+332,Montana,2005,4.5%,7.4%
+333,Nebraska,2005,3.3%,7.0%
+334,Nevada,2005,7.4%,57.4%
+335,New Hampshire,2005,3.9%,7.3%
+336,New Jersey,2005,2.9%,5.7%
+337,New Mexico,2005,4.6%,6.6%
+338,New York,2005,2.9%,6.8%
+339,North Carolina,2005,4.1%,7.3%
+340,North Dakota,2005,2.9%,6.8%
+341,Ohio,2005,3.5%,6.5%
+342,Oklahoma,2005,5.6%,7.3%
+343,Oregon,2005,4.2%,7.3%
+344,Pennsylvania,2005,2.3%,5.8%
+345,Rhode Island,2005,3.0%,7.0%
+346,South Carolina,2005,2.9%,8.3%
+347,South Dakota,2005,2.8%,8.4%
+348,Tennessee,2005,4.6%,10.9%
+349,Texas,2005,3.3%,7.8%
+350,Utah,2005,4.1%,9.8%
+351,Vermont,2005,3.6%,8.9%
+352,Virginia,2005,4.0%,8.2%
+353,Washington,2005,4.3%,6.5%
+354,West Virginia,2005,5.1%,7.4%
+355,Wisconsin,2005,2.9%,6.1%
+356,Wyoming,2005,5.2%,9.3%
+357,Alabama,2004,4.9%,9.4%
+358,Alaska,2004,4.3%,8.5%
+359,Arizona,2004,4.3%,6.7%
+360,Arkansas,2004,6.1%,13.4%
+361,California,2004,nan%,6.4%
+362,Colorado,2004,4.4%,7.4%
+363,Connecticut,2004,3.1%,5.8%
+364,Delaware,2004,3.7%,6.1%
+365,District of Columbia,2004,1.8%,5.2%
+366,Florida,2004,4.7%,9.0%
+367,Georgia,2004,nan%,7.9%
+368,Hawaii,2004,nan%,22.6%
+369,Idaho,2004,5.0%,10.8%
+370,Illinois,2004,2.6%,6.2%
+371,Indiana,2004,nan%,7.8%
+372,Iowa,2004,2.8%,6.9%
+373,Kansas,2004,3.3%,7.0%
+374,Kentucky,2004,4.9%,8.8%
+375,Louisiana,2004,nan%,8.0%
+376,Maine,2004,4.3%,8.6%
+377,Maryland,2004,3.2%,6.9%
+378,Massachusetts,2004,2.2%,6.5%
+379,Michigan,2004,3.5%,6.2%
+380,Minnesota,2004,2.8%,6.0%
+381,Mississippi,2004,4.5%,6.1%
+382,Missouri,2004,3.8%,7.1%
+383,Montana,2004,3.8%,7.5%
+384,Nebraska,2004,3.4%,7.1%
+385,Nevada,2004,6.3%,62.1%
+386,New Hampshire,2004,4.0%,8.0%
+387,New Jersey,2004,3.0%,5.9%
+388,New Mexico,2004,4.6%,7.4%
+389,New York,2004,3.0%,6.8%
+390,North Carolina,2004,4.2%,7.3%
+391,North Dakota,2004,3.1%,6.9%
+392,Ohio,2004,3.6%,6.6%
+393,Oklahoma,2004,4.9%,6.5%
+394,Oregon,2004,4.1%,8.1%
+395,Pennsylvania,2004,3.0%,5.9%
+396,Rhode Island,2004,3.1%,7.7%
+397,South Carolina,2004,3.2%,8.2%
+398,South Dakota,2004,3.1%,8.4%
+399,Tennessee,2004,4.9%,11.4%
+400,Texas,2004,3.6%,8.0%
+401,Utah,2004,4.1%,9.9%
+402,Vermont,2004,3.9%,9.4%
+403,Virginia,2004,3.9%,8.3%
+404,Washington,2004,4.3%,6.5%
+405,West Virginia,2004,5.0%,7.5%
+406,Wisconsin,2004,3.0%,6.2%
+407,Wyoming,2004,5.2%,9.3%
+408,Alabama,2003,5.2%,9.6%
+409,Alaska,2003,3.9%,8.1%
+410,Arizona,2003,4.4%,6.5%
+411,Arkansas,2003,6.0%,13.4%
+412,California,2003,nan%,6.1%
+413,Colorado,2003,4.3%,7.8%
+414,Connecticut,2003,3.2%,5.5%
+415,Delaware,2003,3.9%,6.0%
+416,District of Columbia,2003,2.0%,5.1%
+417,Florida,2003,5.0%,9.0%
+418,Georgia,2003,3.2%,7.0%
+419,Hawaii,2003,nan%,22.0%
+420,Idaho,2003,5.2%,10.9%
+421,Illinois,2003,2.8%,6.5%
+422,Indiana,2003,nan%,7.1%
+423,Iowa,2003,2.8%,6.9%
+424,Kansas,2003,3.3%,6.9%
+425,Kentucky,2003,5.0%,9.1%
+426,Louisiana,2003,3.4%,8.2%
+427,Maine,2003,4.4%,8.4%
+428,Maryland,2003,3.2%,6.9%
+429,Massachusetts,2003,2.5%,5.6%
+430,Michigan,2003,3.5%,6.3%
+431,Minnesota,2003,3.0%,6.3%
+432,Mississippi,2003,4.6%,6.2%
+433,Missouri,2003,3.9%,7.2%
+434,Montana,2003,3.9%,7.2%
+435,Nebraska,2003,3.4%,7.0%
+436,Nevada,2003,7.3%,63.9%
+437,New Hampshire,2003,4.1%,8.1%
+438,New Jersey,2003,3.2%,5.8%
+439,New Mexico,2003,5.2%,6.9%
+440,New York,2003,3.2%,6.8%
+441,North Carolina,2003,4.2%,7.4%
+442,North Dakota,2003,2.9%,7.1%
+443,Ohio,2003,3.7%,6.7%
+444,Oklahoma,2003,nan%,nan%
+445,Oregon,2003,4.3%,7.2%
+446,Pennsylvania,2003,3.1%,5.9%
+447,Rhode Island,2003,3.1%,7.8%
+448,South Carolina,2003,3.3%,9.0%
+449,South Dakota,2003,3.0%,8.4%
+450,Tennessee,2003,5.0%,11.9%
+451,Texas,2003,3.8%,8.1%
+452,Utah,2003,4.0%,10.2%
+453,Vermont,2003,4.0%,9.7%
+454,Virginia,2003,4.0%,8.4%
+455,Washington,2003,4.4%,6.5%
+456,West Virginia,2003,5.2%,7.5%
+457,Wisconsin,2003,3.1%,6.2%
+458,Wyoming,2003,5.4%,9.3%
+459,Alabama,2002,5.4%,9.9%
+460,Alaska,2002,4.6%,8.3%
+461,Arizona,2002,4.8%,6.7%
+462,Arkansas,2002,6.2%,14.3%
+463,California,2002,nan%,6.2%
+464,Colorado,2002,4.7%,8.0%
+465,Connecticut,2002,3.3%,5.7%
+466,Delaware,2002,3.5%,6.4%
+467,District of Columbia,2002,2.4%,5.1%
+468,Florida,2002,5.1%,9.4%
+469,Georgia,2002,2.5%,6.5%
+470,Hawaii,2002,3.7%,20.8%
+471,Idaho,2002,5.3%,11.0%
+472,Illinois,2002,2.9%,6.6%
+473,Indiana,2002,nan%,7.9%
+474,Iowa,2002,3.1%,7.0%
+475,Kansas,2002,3.6%,7.3%
+476,Kentucky,2002,5.2%,9.0%
+477,Louisiana,2002,3.3%,8.1%
+478,Maine,2002,4.6%,8.4%
+479,Maryland,2002,3.4%,7.1%
+480,Massachusetts,2002,2.5%,5.9%
+481,Michigan,2002,3.8%,6.5%
+482,Minnesota,2002,3.1%,6.5%
+483,Mississippi,2002,4.9%,6.4%
+484,Missouri,2002,4.0%,7.3%
+485,Montana,2002,4.0%,7.1%
+486,Nebraska,2002,3.6%,7.5%
+487,Nevada,2002,7.1%,67.4%
+488,New Hampshire,2002,4.3%,8.3%
+489,New Jersey,2002,3.4%,6.0%
+490,New Mexico,2002,4.4%,7.9%
+491,New York,2002,3.4%,7.3%
+492,North Carolina,2002,4.4%,7.7%
+493,North Dakota,2002,2.9%,6.8%
+494,Ohio,2002,4.0%,7.0%
+495,Oklahoma,2002,nan%,nan%
+496,Oregon,2002,4.6%,7.1%
+497,Pennsylvania,2002,3.1%,5.7%
+498,Rhode Island,2002,3.2%,7.8%
+499,South Carolina,2002,3.4%,9.3%
+500,South Dakota,2002,3.3%,8.8%
+501,Tennessee,2002,5.1%,13.1%
+502,Texas,2002,3.9%,8.4%
+503,Utah,2002,4.1%,10.4%
+504,Vermont,2002,4.2%,9.8%
+505,Virginia,2002,4.2%,8.6%
+506,Washington,2002,4.6%,6.5%
+507,West Virginia,2002,5.2%,8.1%
+508,Wisconsin,2002,3.2%,6.3%
+509,Wyoming,2002,5.4%,9.5%
+510,Alabama,2001,5.4%,9.4%
+511,Alaska,2001,4.3%,8.1%
+512,Arizona,2001,4.0%,7.6%
+513,Arkansas,2001,6.2%,14.3%
+514,California,2001,nan%,6.5%
+515,Colorado,2001,4.7%,8.2%
+516,Connecticut,2001,3.2%,5.4%
+517,Delaware,2001,3.9%,6.5%
+518,District of Columbia,2001,2.9%,6.2%
+519,Florida,2001,5.2%,9.3%
+520,Georgia,2001,3.1%,6.1%
+521,Hawaii,2001,4.0%,19.6%
+522,Idaho,2001,5.3%,11.2%
+523,Illinois,2001,3.2%,7.2%
+524,Indiana,2001,nan%,7.9%
+525,Iowa,2001,3.3%,7.1%
+526,Kansas,2001,3.4%,7.5%
+527,Kentucky,2001,5.1%,9.0%
+528,Louisiana,2001,nan%,8.4%
+529,Maine,2001,4.7%,8.6%
+530,Maryland,2001,3.0%,7.0%
+531,Massachusetts,2001,2.4%,6.2%
+532,Michigan,2001,3.9%,6.7%
+533,Minnesota,2001,3.2%,6.6%
+534,Mississippi,2001,5.0%,6.5%
+535,Missouri,2001,4.2%,7.5%
+536,Montana,2001,4.2%,7.1%
+537,Nebraska,2001,3.6%,7.9%
+538,Nevada,2001,6.3%,69.6%
+539,New Hampshire,2001,4.4%,8.5%
+540,New Jersey,2001,3.4%,6.4%
+541,New Mexico,2001,4.9%,7.6%
+542,New York,2001,3.5%,7.6%
+543,North Carolina,2001,4.6%,7.4%
+544,North Dakota,2001,2.9%,6.5%
+545,Ohio,2001,4.0%,7.2%
+546,Oklahoma,2001,nan%,nan%
+547,Oregon,2001,4.8%,7.5%
+548,Pennsylvania,2001,3.1%,5.8%
+549,Rhode Island,2001,3.2%,8.1%
+550,South Carolina,2001,3.6%,9.9%
+551,South Dakota,2001,3.3%,8.9%
+552,Tennessee,2001,5.2%,13.5%
+553,Texas,2001,4.0%,9.1%
+554,Utah,2001,4.2%,10.2%
+555,Vermont,2001,4.3%,9.8%
+556,Virginia,2001,4.2%,8.8%
+557,Washington,2001,4.5%,7.0%
+558,West Virginia,2001,5.2%,7.9%
+559,Wisconsin,2001,3.2%,6.5%
+560,Wyoming,2001,5.8%,10.0%
+561,Alabama,2000,5.5%,10.1%
+562,Alaska,2000,3.9%,8.9%
+563,Arizona,2000,4.6%,7.5%
+564,Arkansas,2000,6.4%,15.4%
+565,California,2000,nan%,5.8%
+566,Colorado,2000,4.7%,8.3%
+567,Connecticut,2000,3.3%,5.7%
+568,Delaware,2000,3.9%,6.5%
+569,District of Columbia,2000,3.2%,4.9%
+570,Florida,2000,5.1%,8.9%
+571,Georgia,2000,3.3%,6.8%
+572,Hawaii,2000,3.9%,20.6%
+573,Idaho,2000,5.5%,10.8%
+574,Illinois,2000,3.2%,6.9%
+575,Indiana,2000,nan%,7.9%
+576,Iowa,2000,3.3%,6.9%
+577,Kansas,2000,3.6%,8.3%
+578,Kentucky,2000,5.1%,9.8%
+579,Louisiana,2000,nan%,9.1%
+580,Maine,2000,5.0%,8.8%
+581,Maryland,2000,3.3%,7.5%
+582,Massachusetts,2000,2.5%,5.8%
+583,Michigan,2000,3.9%,6.7%
+584,Minnesota,2000,3.2%,6.8%
+585,Mississippi,2000,5.0%,6.9%
+586,Missouri,2000,4.5%,7.8%
+587,Montana,2000,4.2%,7.3%
+588,Nebraska,2000,3.7%,7.6%
+589,Nevada,2000,9.9%,72.2%
+590,New Hampshire,2000,4.8%,9.4%
+591,New Jersey,2000,3.0%,6.0%
+592,New Mexico,2000,5.1%,8.0%
+593,New York,2000,3.0%,7.1%
+594,North Carolina,2000,4.5%,8.2%
+595,North Dakota,2000,3.4%,7.2%
+596,Ohio,2000,4.2%,7.8%
+597,Oklahoma,2000,nan%,nan%
+598,Oregon,2000,4.8%,7.6%
+599,Pennsylvania,2000,3.1%,6.0%
+600,Rhode Island,2000,2.9%,7.6%
+601,South Carolina,2000,3.8%,10.6%
+602,South Dakota,2000,3.5%,9.4%
+603,Tennessee,2000,5.9%,15.5%
+604,Texas,2000,4.0%,9.4%
+605,Utah,2000,4.3%,10.8%
+606,Vermont,2000,4.1%,10.0%
+607,Virginia,2000,4.3%,8.8%
+608,Washington,2000,4.6%,6.9%
+609,West Virginia,2000,5.1%,8.7%
+610,Wisconsin,2000,3.2%,6.7%
+611,Wyoming,2000,5.8%,10.0%
+612,Alabama,1999,5.7%,10.8%
+613,Alaska,1999,5.0%,8.6%
+614,Arizona,1999,4.6%,8.2%
+615,Arkansas,1999,6.2%,14.8%
+616,California,1999,nan%,6.4%
+617,Colorado,1999,4.8%,8.2%
+618,Connecticut,1999,3.0%,5.8%
+619,Delaware,1999,4.5%,6.7%
+620,District of Columbia,1999,3.6%,6.6%
+621,Florida,1999,5.1%,8.7%
+622,Georgia,1999,4.1%,7.8%
+623,Hawaii,1999,3.8%,18.9%
+624,Idaho,1999,5.4%,12.1%
+625,Illinois,1999,3.3%,7.0%
+626,Indiana,1999,nan%,8.1%
+627,Iowa,1999,3.3%,7.9%
+628,Kansas,1999,3.4%,7.1%
+629,Kentucky,1999,5.5%,10.9%
+630,Louisiana,1999,nan%,9.1%
+631,Maine,1999,5.1%,8.6%
+632,Maryland,1999,3.2%,7.5%
+633,Massachusetts,1999,2.5%,6.2%
+634,Michigan,1999,3.8%,6.8%
+635,Minnesota,1999,3.2%,6.8%
+636,Mississippi,1999,5.0%,7.8%
+637,Missouri,1999,4.4%,8.1%
+638,Montana,1999,2.8%,7.4%
+639,Nebraska,1999,3.7%,7.5%
+640,Nevada,1999,7.8%,82.3%
+641,New Hampshire,1999,5.1%,7.9%
+642,New Jersey,1999,3.0%,5.9%
+643,New Mexico,1999,4.6%,8.0%
+644,New York,1999,3.3%,7.3%
+645,North Carolina,1999,4.6%,8.5%
+646,North Dakota,1999,4.4%,6.6%
+647,Ohio,1999,3.9%,7.8%
+648,Oklahoma,1999,nan%,6.8%
+649,Oregon,1999,4.6%,7.6%
+650,Pennsylvania,1999,3.1%,6.1%
+651,Rhode Island,1999,2.7%,7.5%
+652,South Carolina,1999,3.8%,10.2%
+653,South Dakota,1999,3.7%,9.1%
+654,Tennessee,1999,5.8%,14.7%
+655,Texas,1999,3.8%,9.1%
+656,Utah,1999,4.0%,9.6%
+657,Vermont,1999,4.4%,10.0%
+658,Virginia,1999,4.4%,9.2%
+659,Washington,1999,5.0%,7.2%
+660,West Virginia,1999,4.9%,7.5%
+661,Wisconsin,1999,3.2%,6.7%
+662,Wyoming,1999,5.7%,9.9%
+663,Alabama,1995,6.0%,9.8%
+664,Alaska,1995,5.0%,9.0%
+665,Arizona,1995,6.2%,8.8%
+666,Arkansas,1995,6.3%,14.4%
+667,California,1995,nan%,6.3%
+668,Colorado,1995,nan%,9.0%
+669,Connecticut,1995,2.9%,6.6%
+670,Delaware,1995,5.0%,7.3%
+671,District of Columbia,1995,3.2%,6.1%
+672,Florida,1995,5.5%,9.9%
+673,Georgia,1995,5.1%,8.4%
+674,Hawaii,1995,4.6%,15.7%
+675,Idaho,1995,5.8%,13.1%
+676,Illinois,1995,3.2%,6.9%
+677,Indiana,1995,nan%,8.6%
+678,Iowa,1995,3.7%,7.7%
+679,Kansas,1995,4.1%,8.5%
+680,Kentucky,1995,5.9%,12.2%
+681,Louisiana,1995,nan%,9.3%
+682,Maine,1995,4.4%,8.7%
+683,Maryland,1995,3.0%,8.4%
+684,Massachusetts,1995,2.2%,7.1%
+685,Michigan,1995,4.1%,7.3%
+686,Minnesota,1995,3.4%,7.0%
+687,Mississippi,1995,4.8%,7.9%
+688,Missouri,1995,5.0%,8.3%
+689,Montana,1995,4.8%,7.6%
+690,Nebraska,1995,3.8%,7.3%
+691,Nevada,1995,7.8%,85.2%
+692,New Hampshire,1995,4.2%,8.3%
+693,New Jersey,1995,3.0%,6.5%
+694,New Mexico,1995,6.6%,8.8%
+695,New York,1995,3.0%,8.0%
+696,North Carolina,1995,5.0%,8.4%
+697,North Dakota,1995,3.4%,7.1%
+698,Ohio,1995,4.3%,8.0%
+699,Oklahoma,1995,6.6%,8.6%
+700,Oregon,1995,4.7%,8.1%
+701,Pennsylvania,1995,3.2%,6.2%
+702,Rhode Island,1995,3.6%,7.3%
+703,South Carolina,1995,3.9%,11.9%
+704,South Dakota,1995,3.9%,9.9%
+705,Tennessee,1995,6.2%,15.5%
+706,Texas,1995,5.2%,9.9%
+707,Utah,1995,4.4%,10.7%
+708,Vermont,1995,4.7%,10.3%
+709,Virginia,1995,4.3%,10.2%
+710,Washington,1995,5.4%,7.7%
+711,West Virginia,1995,5.2%,6.1%
+712,Wisconsin,1995,3.4%,7.0%
+713,Wyoming,1995,6.6%,10.6%
+714,Alabama,1990,6.1%,10.6%
+715,Alaska,1990,5.5%,10.2%
+716,Arizona,1990,6.9%,10.0%
+717,Arkansas,1990,6.9%,15.3%
+718,California,1990,4.3%,7.9%
+719,Colorado,1990,5.5%,9.8%
+720,Connecticut,1990,3.2%,7.9%
+721,Delaware,1990,4.4%,8.4%
+722,District of Columbia,1990,4.5%,8.2%
+723,Florida,1990,6.3%,10.9%
+724,Georgia,1990,5.5%,10.3%
+725,Hawaii,1990,4.6%,16.4%
+726,Idaho,1990,6.5%,13.9%
+727,Illinois,1990,3.8%,8.8%
+728,Indiana,1990,nan%,9.6%
+729,Iowa,1990,3.9%,9.0%
+730,Kansas,1990,5.0%,9.2%
+731,Kentucky,1990,5.8%,13.5%
+732,Louisiana,1990,nan%,9.6%
+733,Maine,1990,4.3%,9.7%
+734,Maryland,1990,3.4%,9.7%
+735,Massachusetts,1990,2.8%,7.9%
+736,Michigan,1990,4.3%,8.2%
+737,Minnesota,1990,3.5%,7.7%
+738,Mississippi,1990,5.5%,9.4%
+739,Missouri,1990,5.1%,9.6%
+740,Montana,1990,5.1%,8.6%
+741,Nebraska,1990,4.0%,8.0%
+742,Nevada,1990,11.4%,99.0%
+743,New Hampshire,1990,4.7%,9.5%
+744,New Jersey,1990,3.0%,7.6%
+745,New Mexico,1990,4.9%,8.8%
+746,New York,1990,3.2%,8.6%
+747,North Carolina,1990,5.1%,7.8%
+748,North Dakota,1990,3.6%,7.5%
+749,Ohio,1990,4.7%,9.0%
+750,Oklahoma,1990,7.7%,10.6%
+751,Oregon,1990,5.5%,8.9%
+752,Pennsylvania,1990,3.3%,7.1%
+753,Rhode Island,1990,3.7%,8.1%
+754,South Carolina,1990,4.5%,15.9%
+755,South Dakota,1990,3.7%,11.1%
+756,Tennessee,1990,6.5%,13.9%
+757,Texas,1990,5.5%,10.5%
+758,Utah,1990,5.1%,11.2%
+759,Vermont,1990,4.5%,10.9%
+760,Virginia,1990,4.4%,11.4%
+761,Washington,1990,5.9%,9.5%
+762,West Virginia,1990,5.3%,7.2%
+763,Wisconsin,1990,3.6%,7.9%
+764,Wyoming,1990,6.6%,10.7%
