@@ -19,4 +19,4 @@ df1['Marriage rate']=cols3
 df1['Marriage rate']=df1['Marriage rate'].apply( lambda x : str(x) + '%')
 df1.rename(columns= {'value':'Divorce rate'}, inplace=True)
 df1['Divorce rate']=df1['Divorce rate'].apply( lambda x : str(x) + '%')
-
+outputdf1.to_csv('outputdata.csv')
